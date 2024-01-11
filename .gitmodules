@@ -1,0 +1,6 @@
+[submodule "cleanerbydesign-backend"]
+	path = cleanerbydesign-backend
+	url = https://github.com/joshl26/cleanerbydesign-backend
+[submodule "cleanerbydesign-frontend"]
+	path = cleanerbydesign-frontend
+	url = https://github.com/joshl26/cleanerbydesign-frontend
