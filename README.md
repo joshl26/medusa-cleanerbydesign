@@ -24,25 +24,26 @@ Cleaner By Design is an online Ecommerce store that sells modern goods for your 
 ![ReactJS](https://img.shields.io/badge/reactjs-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-6DA55F?style=for-the-badge&logo=vercel&logoColor=white)
 
-> HTML5 - A markup language for creating web pages and web applications.
-> CSS3 - used for describing the presentation of a document written in a markup language.
-> TypeScript - is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
-> ReactJS - For building reactive/responsive web applications.
-> Next.js - enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
+- HTML5 - A markup language for creating web pages and web applications.
+
+- CSS3 - used for describing the presentation of a document written in a markup language.
+
+- TypeScript - is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+
+- ReactJS - For building reactive/responsive web applications.
+
+- Next.js - enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
 
 ## Screenshots
 
 > Home Page
-> ![Home Page 1](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-1.png)
-<!-- > ![Home Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-2.png)
-> ![Home Page 3](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-3.png)
-> About Page
-> ![About Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-4.png)
-> Project Page
-> ![Project Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-5.png)
-> Contact Page
-> ![Contact Page 1](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-6.png)
-> ![Contact Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-7.png) -->
+> ![Home Page 1](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CleanerByDesign_Landing_Page_1.png)
+> Product Page
+> ![Product Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CleanerByDesign_Product_Page_1.png)
+>Cart Page
+> ![Cart Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CleanerByDesign_Cart_Page_1.png)
+> Checkout Page
+> ![Checkout Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CleanerByDesign_Checkout_Page_1.png)
 
 ## Demo
 
