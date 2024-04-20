@@ -34,15 +34,15 @@ Cleaner By Design is an online Ecommerce store that sells modern goods for your 
 
 > Home Page
 > ![Home Page 1](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-1.png)
-> ![Home Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-2.png)
+<!-- > ![Home Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-2.png)
 > ![Home Page 3](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-3.png)
 > About Page
-> ![Avout Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-4.png)
+> ![About Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-4.png)
 > Project Page
 > ![Project Page](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-5.png)
 > Contact Page
 > ![Contact Page 1](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-6.png)
-> ![Contact Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-7.png)
+> ![Contact Page 2](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/portfolio-2024-7.png) -->
 
 ## Demo
 
