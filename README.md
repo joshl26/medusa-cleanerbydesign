@@ -35,6 +35,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![BuiltWithLove](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
+![Home page image](https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CleanerByDesign_Landing_Page_1.png)
+
 Cleaner By Design is an e-commerce web application designed to provide a seamless online shopping experience. This platform specializes in offering eco-friendly and sustainable home organization products, catering to a niche market of environmentally conscious consumers. Built using Next.js, PostgreSQL, and TypeScript, the project not only highlights technical proficiency but also demonstrates a commitment to modern, scalable web technologies aligned with innovative business practices.
 
 - **Sustainable Product Catalog:** A detailed catalog showcasing modern eco-friendly home organization solutions that are better for both the consumer and the planet.
